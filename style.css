@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100..900&display=swap');
+
 * {
     padding: 0;
     margin: 0;
@@ -70,8 +71,8 @@ li {
     justify-content: center;
 }
 
-#about, 
-#discord, 
+#about,
+#discord,
 #contact,
 footer {
     padding: 48px 0;
@@ -81,7 +82,7 @@ footer {
 
 ABOUT
 
-*/ 
+*/
 
 #about {
     background-color: #f8ffdc;
@@ -111,7 +112,8 @@ img {
     width: 60%;
 }
 
-.about__img--wrapper, .section__description--wrapper {
+.about__img--wrapper,
+.section__description--wrapper {
     padding: 0 24px;
 }
 
@@ -153,7 +155,8 @@ form {
     flex-direction: column;
 }
 
-input, textarea {
+input,
+textarea {
     padding: 6px 12px;
     margin-bottom: 24px;
     font-size: 20px;
